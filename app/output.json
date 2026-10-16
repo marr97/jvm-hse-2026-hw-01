@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Mobil 1, Synthetic",
+    "type": "oil",
+    "priceRub": 1125.0,
+    "weightKg": 4.54,
+    "vehicle": "PASSENGER",
+    "volume": 4.0
+  },
+  {
+    "id": 2,
+    "name": "Castrol Magnatec",
+    "type": "oil",
+    "priceRub": 300.5,
+    "weightKg": 1.2,
+    "vehicle": "PASSENGER",
+    "volume": 1.0
+  },
+  {
+    "id": 3,
+    "name": "Michelin Primacy",
+    "type": "tire",
+    "priceRub": 1350.0,
+    "weightKg": 0.3,
+    "vehicle": "PASSENGER",
+    "diameter": 16.0,
+    "season": "SUMMER"
+  },
+  {
+    "id": 4,
+    "name": "Nokian Hakkapeliitta",
+    "type": "tire",
+    "priceRub": 25.0,
+    "weightKg": 0.908,
+    "vehicle": "TRUCK",
+    "diameter": 18.0,
+    "season": "WINTER"
+  },
+  {
+    "id": 5,
+    "name": "Щетки стеклоочистителя",
+    "type": "accessory",
+    "priceRub": 100.0,
+    "weightKg": 0.1,
+    "vehicle": "PASSENGER",
+    "material": "резина",
+    "color": "черный"
+  },
+  {
+    "id": 6,
+    "name": "Bosch, Air Filter",
+    "type": "accessory",
+    "priceRub": 675.0,
+    "weightKg": 0.05,
+    "vehicle": "MOTORCYCLE",
+    "material": "бумага",
+    "color": "белый"
+  }
+]
